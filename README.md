@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/>Olá, Meu nome é Gabriel Essênio</strong>
+  <strong><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/>Olá, Meu nome é Cristian Bugs</strong>
 </h1>
 
 <h3 align="center">
